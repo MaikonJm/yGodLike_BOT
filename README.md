@@ -10,7 +10,7 @@ Para utilizar este bot, é necessário instalar as seguintes bibliotecas:
 pip install discord.py
 pip install wavelink
 pip install aiohttp
-pip install humanize
+pip install humanize```
 
 Certifique-se de ter o Python e o pip instalados em seu sistema antes de executar esses comandos.
 
