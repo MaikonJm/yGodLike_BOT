@@ -28,7 +28,7 @@ Depois de configurar o bot, você pode executá-lo usando o seguinte comando:
 
 Certifique-se de estar no diretório raiz do projeto ao executar o comando acima.
 
-Após executar o bot, ele estará online no Discord e pronto para reproduzir músicas. Para obter uma lista de comandos disponíveis, digite `!help` no chat do Discord.
+Após executar o bot, ele estará online no Discord e pronto para reproduzir músicas. Para obter uma lista de comandos disponíveis, digite `+help` no chat do Discord.
 
 ## Contribuição
 
